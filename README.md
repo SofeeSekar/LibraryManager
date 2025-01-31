@@ -57,7 +57,7 @@ The app runs on swagger.
 	- First login using the following payload
 			{
 				"username": "test",
-				"password": "test"
+				"password": "password"
 			}
 	- This will return a JWT token
 	-Input this token in the authorize pop-up on swagger - Bearer {jwt-token}
